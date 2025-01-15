@@ -1,0 +1,14 @@
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ex04.AssemblyInfoInputs.cache
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ex04.AssemblyInfo.cs
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ex04.csproj.CoreCompileInputs.cache
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\bin\Debug\net8.0\ex04.exe
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\bin\Debug\net8.0\ex04.deps.json
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\bin\Debug\net8.0\ex04.runtimeconfig.json
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\bin\Debug\net8.0\ex04.dll
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\bin\Debug\net8.0\ex04.pdb
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ex04.dll
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\refint\ex04.dll
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ex04.pdb
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ex04.genruntimeconfig.cache
+C:\Users\maria.csmorais2\source\repos\logica_programacao\ex04\obj\Debug\net8.0\ref\ex04.dll
